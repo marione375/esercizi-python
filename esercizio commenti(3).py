@@ -2,3 +2,6 @@
 #ce ne sono di vario tipo e nessuno di questi interferisce con i codici
 #il primo è questo asterisco
 print("hello world")
+"""
+anche così
+"""
